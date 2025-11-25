@@ -8,7 +8,7 @@ export default function services() {
       <div className="max-w-7xl mx-auto">
      
         <h2 className="text-4xl font-bold text-center text-orange-600 mb-12">
-          Services
+          Projects
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -50,11 +50,9 @@ export default function services() {
 
           <div className="bg-orange-100 rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
             <h3 className="text-2xl font-semibold text-orange-700 mb-4">
-              Projects
-            </h3>
-            <h4 className="text-xl font-medium text-orange-600 mb-3">
               Mitumbasales
-            </h4>
+            </h3>
+            
             <p className="text-gray-700 leading-relaxed mb-6">
               Built Mitumbasales project aimed at solving the trust menace in the Dandora dumpsite in Kenya by connecting the traders and consumers.
             </p>
